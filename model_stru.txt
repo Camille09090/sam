@@ -1,4 +1,4 @@
-(sa) liuzixuan2024@research:/data2/liuzixuan/seg/segment-anything$ python stu.py
+
 
 image_encoder
 image_encoder.patch_embed
